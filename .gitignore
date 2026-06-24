@@ -5,6 +5,9 @@ build/
 # Packaged desktop app output
 dist/
 Minesweeper-windows.zip
+Minesweeper.exe
+app/
+runtime/
 
 # IDE and OS files
 .idea/
