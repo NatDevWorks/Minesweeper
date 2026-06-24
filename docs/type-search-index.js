@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"minesweeper","l":"Bomb"},{"p":"minesweeper","l":"Cell"},{"p":"minesweeper","l":"Empty"},{"p":"minesweeper","l":"Field"},{"p":"minesweeper","l":"Graphical"}];updateSearchResults();

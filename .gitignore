@@ -1,0 +1,13 @@
+# Java build output
+*.class
+build/
+
+# Packaged desktop app output
+dist/
+Minesweeper-windows.zip
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
